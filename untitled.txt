@@ -1,6 +1,0 @@
-Runs to do:
-a) Run with GM diffusivity. 
-
-Runs running: 
-a) tracers with restoration. 
-b) Run the small channel run with zonal tracers. 
