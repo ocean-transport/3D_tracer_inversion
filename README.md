@@ -4,8 +4,8 @@
 
 In this project we test how well the eddy diffusivity tensor model, 
 
-\begin{equation}
+$$
 \overline{u'c'} = - \textbf{K} \nabla \overline C,
-\end{equation}
+$$
 
 where $\textbf{K}$ is a tensor, performs at capturing the relationship between the eddy fluxes and their mean gradients. 
