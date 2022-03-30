@@ -1,5 +1,8 @@
 *.nc
+*.zarr
 *.pdf
 *.png
 *.eps
 .ipynb_checkpoints/
+final_analysis/.ipynb_checkpoints/
+final_analysis/dask-worker-space/

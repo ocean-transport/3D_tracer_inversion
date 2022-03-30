@@ -1,0 +1,24 @@
+name: GM-Redi-offline-env-labextension
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - xarray
+  - dask
+  - netcdf4
+  - xgcm
+  - xmitgcm
+  - xrft
+  - gcm_filters
+  - jupyter
+  - jupyterlab
+  - intake
+  - pytest
+  - numba
+  - distributed
+  - dask-labextension
+  - nodejs
